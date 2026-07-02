@@ -5,7 +5,8 @@
 ## 📅 Challenge Progress
 
 | Day | Topic | Status |
-|-----|-------------------------|--------|
+|-----|-------------------------------|--------|
 | 001 | Create EC2 Key Pair | ✅ Completed |
+| 002 | Create EC2 Security Group | ✅ Completed |
 
 ---

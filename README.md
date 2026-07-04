@@ -10,5 +10,6 @@
 | 002 | Create Security Group | ✅ Completed |
 | 003 | Create Subnet | ✅ Completed |
 | 004 | Enable Versioning for S3 Bucket | ✅ Completed |
+| 005 | Create GP3 Volume | ✅ Completed |
 
 ---

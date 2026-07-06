@@ -12,7 +12,5 @@
 | 004 | Enable Versioning for S3 Bucket | ✅ Completed |
 | 005 | Create GP3 Volume | ✅ Completed |
 | 006 | Launch EC2 Instance | ✅ Completed |
+| 007 | Change EC2 Instance Type | ✅ Completed |
 ---
-
-
-

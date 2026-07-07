@@ -13,4 +13,5 @@
 | 005 | Create GP3 Volume | ✅ Completed |
 | 006 | Launch EC2 Instance | ✅ Completed |
 | 007 | Change EC2 Instance Type | ✅ Completed |
+| 008 | Enable Stop Protection for EC2 Instance | ✅ Completed |
 ---

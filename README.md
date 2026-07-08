@@ -14,4 +14,6 @@
 | 006 | Launch EC2 Instance | ✅ Completed |
 | 007 | Change EC2 Instance Type | ✅ Completed |
 | 008 | Enable Stop Protection for EC2 Instance | ✅ Completed |
+| 009 | Enable Termination Protection for EC2 Instance | ✅ Completed |
+
 ---

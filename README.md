@@ -15,5 +15,6 @@
 | 007 | Change EC2 Instance Type | ✅ Completed |
 | 008 | Enable Stop Protection for EC2 Instance | ✅ Completed |
 | 009 | Enable Termination Protection for EC2 Instance | ✅ Completed |
+| 010 | Attach Elastic IP to EC2 Instance | ✅ Completed |
 
 ---

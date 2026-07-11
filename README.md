@@ -17,5 +17,6 @@
 | 009 | Enable Termination Protection for EC2 Instance | ✅ Completed |
 | 010 | Attach Elastic IP to EC2 Instance | ✅ Completed |
 | 011 | Attach Elastic Network Interface to EC2 Instance | ✅ Completed |
+| 012 | Attach Volume to EC2 Instance                    | ✅ Completed |
 
 ---

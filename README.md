@@ -19,6 +19,6 @@
 | 011 | Attach Elastic Network Interface to EC2 Instance | ✅ Completed |
 | 012 | Attach Volume to EC2 Instance                    | ✅ Completed |
 | 013 | Create AMI from Instance                         | ✅ Completed |
-
+| 014 | Terminate EC2 Instance                           | ✅ Completed |
 
 ---

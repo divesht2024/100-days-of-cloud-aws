@@ -20,5 +20,7 @@
 | 012 | Attach Volume to EC2 Instance                    | ✅ Completed |
 | 013 | Create AMI from Instance                         | ✅ Completed |
 | 014 | Terminate EC2 Instance                           | ✅ Completed |
+| 015 | Create Volume Snapshot                           | ✅ Completed |
+
 
 ---

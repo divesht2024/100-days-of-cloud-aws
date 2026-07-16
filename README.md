@@ -21,6 +21,6 @@
 | 013 | Create AMI from Instance                         | ✅ Completed |
 | 014 | Terminate EC2 Instance                           | ✅ Completed |
 | 015 | Create Volume Snapshot                           | ✅ Completed |
-
+| 016 | Create IAM User                                  | ✅ Completed |
 
 ---

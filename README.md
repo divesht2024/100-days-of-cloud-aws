@@ -22,5 +22,7 @@
 | 014 | Terminate EC2 Instance                           | ✅ Completed |
 | 015 | Create Volume Snapshot                           | ✅ Completed |
 | 016 | Create IAM User                                  | ✅ Completed |
+| 017 | Create IAM Group                                 | ✅ Completed |
+| 018 | Create Read-Only IAM Policy for EC2 Console Access | ✅ Completed |
 
 ---

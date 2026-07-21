@@ -25,5 +25,7 @@
 | 017 | Create IAM Group                                 | ✅ Completed |
 | 018 | Create Read-Only IAM Policy for EC2 Console Access | ✅ Completed |
 | 019 | Attach IAM Policy to IAM User                      | ✅ Completed |
+| 021 | Setting Up an EC2 Instance with an Elastic IP for Application Hosting | ✅ Completed |
+
 
 ---

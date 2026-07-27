@@ -31,5 +31,6 @@
 | 021 | Setting Up an EC2 Instance with an Elastic IP for Application Hosting | ✅ Completed |
 | 022 | Configuring Secure SSH Access to an EC2 Instance     | ✅ Completed |
 | 023 | Data Migration Between S3 Buckets Using AWS CLI      | ✅ Completed |
+| 024 | Setting Up an Application Load Balancer for an EC2 Instance | ✅ Completed |
 
 ---

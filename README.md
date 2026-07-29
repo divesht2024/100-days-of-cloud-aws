@@ -1,10 +1,5 @@
 # 100-days-of-cloud-aws
 
-
-
-
-
-
 ## 📅 Challenge Progress
 
 | Day | Topic | Status |
@@ -33,5 +28,5 @@
 | 023 | Data Migration Between S3 Buckets Using AWS CLI      | ✅ Completed |
 | 024 | Setting Up an Application Load Balancer for an EC2 Instance | ✅ Completed |
 | 025 | Setting Up an EC2 Instance and CloudWatch Alarm             | ✅ Completed |
-
+| 026 | Configuring an EC2 Instance as a Web Server with Nginx      | ✅ Completed |
 ---

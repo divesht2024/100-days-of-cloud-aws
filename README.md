@@ -29,4 +29,5 @@
 | 024 | Setting Up an Application Load Balancer for an EC2 Instance | ✅ Completed |
 | 025 | Setting Up an EC2 Instance and CloudWatch Alarm             | ✅ Completed |
 | 026 | Configuring an EC2 Instance as a Web Server with Nginx      | ✅ Completed |
+| 027 | Configuring a Public VPC with an EC2 Instance for Internet Access | ✅ Completed |
 ---

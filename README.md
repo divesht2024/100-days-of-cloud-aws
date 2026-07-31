@@ -30,4 +30,5 @@
 | 025 | Setting Up an EC2 Instance and CloudWatch Alarm             | ✅ Completed |
 | 026 | Configuring an EC2 Instance as a Web Server with Nginx      | ✅ Completed |
 | 027 | Configuring a Public VPC with an EC2 Instance for Internet Access | ✅ Completed |
+| 028 | Creating a Private Amazon ECR Repository                          | ✅ Completed |
 ---

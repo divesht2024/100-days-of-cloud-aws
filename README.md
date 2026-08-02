@@ -31,4 +31,5 @@
 | 026 | Configuring an EC2 Instance as a Web Server with Nginx      | ✅ Completed |
 | 027 | Configuring a Public VPC with an EC2 Instance for Internet Access | ✅ Completed |
 | 028 | Creating a Private Amazon ECR Repository                          | ✅ Completed |
+| 029 | Establishing Secure Communication Between Public and Private VPCs via VPC Peering | ✅ Completed |
 ---

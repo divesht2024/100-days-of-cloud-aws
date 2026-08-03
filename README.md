@@ -32,4 +32,5 @@
 | 027 | Configuring a Public VPC with an EC2 Instance for Internet Access | ✅ Completed |
 | 028 | Creating a Private Amazon ECR Repository                          | ✅ Completed |
 | 029 | Establishing Secure Communication Between Public and Private VPCs via VPC Peering | ✅ Completed |
+| 030 | Enable Internet Access for Private EC2 using NAT Instance | ✅ Completed |
 ---

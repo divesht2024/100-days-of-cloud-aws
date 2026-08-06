@@ -34,4 +34,5 @@
 | 029 | Establishing Secure Communication Between Public and Private VPCs via VPC Peering | ✅ Completed |
 | 030 | Enable Internet Access for Private EC2 using NAT Instance | ✅ Completed |
 | 031 | Configuring a Private RDS Instance for Application Development                    | ✅ Completed |
+| 032 | Snapshot and Restoration of an RDS Instance                                       | ✅ Completed |
 ---

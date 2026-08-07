@@ -35,4 +35,5 @@
 | 030 | Enable Internet Access for Private EC2 using NAT Instance | ✅ Completed |
 | 031 | Configuring a Private RDS Instance for Application Development                    | ✅ Completed |
 | 032 | Snapshot and Restoration of an RDS Instance                                       | ✅ Completed |
+| 033 | Create a Lambda Function                                                          | ✅ Completed |
 ---

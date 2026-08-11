@@ -37,5 +37,6 @@
 | 032 | Snapshot and Restoration of an RDS Instance                                       | ✅ Completed |
 | 033 | Create a Lambda Function                                                          | ✅ Completed |
 | 034 | Create a Lambda Function using AWS CLI                                            | ✅ Completed |
-| 035 |: Deploying and Managing Applications on AWS                                       | ✅ Completed |
+| 035 | Deploying and Managing Applications on AWS                                       | ✅ Completed |
+| 035 | Load Balancing EC2 Instances with Application Load Balancer | ✅ Completed |
 ---

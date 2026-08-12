@@ -38,5 +38,7 @@
 | 033 | Create a Lambda Function                                                          | ✅ Completed |
 | 034 | Create a Lambda Function using AWS CLI                                            | ✅ Completed |
 | 035 | Deploying and Managing Applications on AWS                                       | ✅ Completed |
-| 035 | Load Balancing EC2 Instances with Application Load Balancer | ✅ Completed |
+| 036 | Load Balancing EC2 Instances with Application Load Balancer | ✅ Completed |
+| 037 | Managing EC2 Access with S3 Role-based Permissions | ✅ Completed |
+
 ---

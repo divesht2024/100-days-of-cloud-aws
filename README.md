@@ -40,5 +40,6 @@
 | 035 | Deploying and Managing Applications on AWS                                       | ✅ Completed |
 | 036 | Load Balancing EC2 Instances with Application Load Balancer | ✅ Completed |
 | 037 | Managing EC2 Access with S3 Role-based Permissions | ✅ Completed |
+| 038 | Deploying Containerized Applications with Amazon ECS | ✅ Completed |
 
 ---

@@ -42,5 +42,6 @@
 | 037 | Managing EC2 Access with S3 Role-based Permissions | ✅ Completed |
 | 038 | Deploying Containerized Applications with Amazon ECS | ✅ Completed |
 | 039 | Hosting a Static Website on AWS S3 | ✅ Completed |
+| 040 |  Troubleshooting Internet Accessibility for an EC2-Hosted Application | ✅ Completed |
 
 ---

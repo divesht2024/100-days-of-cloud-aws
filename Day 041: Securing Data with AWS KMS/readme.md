@@ -17,8 +17,6 @@ Advanced options: Default
 
 Click Next
 
-![alt text](image.png)
-
 Alias
 
 Alias name:
@@ -28,15 +26,11 @@ xfusion-KMS-Key
 
 Click Next
 
-![alt text](image-1.png)
-
 Key Administrators
 
 Select your IAM user / role
 
 Click Next
-
-![alt text](image-2.png)
 
 Key Users
 
@@ -44,11 +38,8 @@ Allow the same IAM user / role to use the key
 
 Click Next
 
-![alt text](image-3.png)
-
 Review and click Next and then Finish
 
-![alt text](image-4.png)
 
 ✅ Symmetric KMS key is now created and ready for use.
 
@@ -95,7 +86,5 @@ diff /root/SensitiveData.txt /root/PlaintextFile.txt
 Expected result:
 
 No output → files are identical ✅
-
-![alt text](image-5.png)
 
 ---

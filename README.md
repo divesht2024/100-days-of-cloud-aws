@@ -44,5 +44,6 @@
 | 039 | Hosting a Static Website on AWS S3 | ✅ Completed |
 | 040 | Troubleshooting Internet Accessibility for an EC2-Hosted Application | ✅ Completed |
 | 041 | Securing Data with AWS KMS | ✅ Completed |
+| 042 | Building and Managing NoSQL Databases with AWS DynamoDB | ✅ Completed |
 
 ---

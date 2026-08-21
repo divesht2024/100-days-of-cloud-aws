@@ -46,6 +46,8 @@
 | 041 | Securing Data with AWS KMS | ✅ Completed |
 | 042 | Building and Managing NoSQL Databases with AWS DynamoDB | ✅ Completed |
 | 043 | Scaling and Managing Kubernetes Clusters with Amazon EKS | ✅ Completed |
+| 044 | Implementing Auto Scaling for High Availability in AWS | ✅ Completed |
+        
 
 /
 

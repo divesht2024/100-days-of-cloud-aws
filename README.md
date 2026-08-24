@@ -47,8 +47,8 @@
 | 042 | Building and Managing NoSQL Databases with AWS DynamoDB | ✅ Completed |
 | 043 | Scaling and Managing Kubernetes Clusters with Amazon EKS | ✅ Completed |
 | 044 | Implementing Auto Scaling for High Availability in AWS | ✅ Completed |
-| 045 | Day 45: Configure NAT Gateway for Internet Access in a Private VPC | ✅ Completed |
-
+| 045 | Configure NAT Gateway for Internet Access in a Private VPC | ✅ Completed |
+| 046 | Event-Driven Processing with Amazon S3 and Lambda | ✅ Completed |
 
 
 ---

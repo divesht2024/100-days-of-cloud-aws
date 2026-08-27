@@ -49,6 +49,7 @@
 | 044 | Implementing Auto Scaling for High Availability in AWS | ✅ Completed |
 | 045 | Configure NAT Gateway for Internet Access in a Private VPC | ✅ Completed |
 | 046 | Event-Driven Processing with Amazon S3 and Lambda | ✅ Completed |
-
+| 047 | Integrating AWS SQS and SNS for Reliable Messaging | ✅ Completed |
+| 048 | Automating Infrastructure Deployment with AWS CloudFormation | ✅ Completed |
 
 ---

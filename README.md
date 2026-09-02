@@ -50,7 +50,7 @@
 | 045 | Configure NAT Gateway for Internet Access in a Private VPC | ✅ Completed |
 | 046 | Event-Driven Processing with Amazon S3 and Lambda | ✅ Completed |
 | 047 | Integrating AWS SQS and SNS for Reliable Messaging | ✅ Completed |
-| 048 | Automating Infrastructure Deployment with AWS CloudFormation | ✅ Completed |
-| 049 | Centralized Audit Logging with VPC Peering | ✅ Completed |
-| 050 | Expanding EC2 Instance Storage for Development Needs | ✅ Completed |
+| 048 | Automating Infrastructure Deployment with AWS CloudFormation. | ✅ Completed |
+| 049 | Centralized Audit Logging with VPC Peering. | ✅ Completed |
+| 050 | Expanding EC2 Instance Storage for Development Needs. | ✅ Completed |
 ---
